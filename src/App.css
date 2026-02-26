@@ -1,0 +1,13 @@
+*{
+  margin: 0;
+  padding: 0;
+    box-sizing: border-box;
+}
+.d{background-image: linear-gradient(to right top, #17a6f1, #8496f3, #c77fdb, #f268ad, #ff6172, #fb784c, #e7942b, #c6ae1c, #a5c84e, #83dd85, #65eebe, #5ffbf1);
+border-bottom-right-radius: 100%;
+
+}
+.k{
+  background-image: linear-gradient(to right top, #f9ac08, #ff8a29, #ff6348, #ff3a69, #ff118b, #f1009d, #de00b0, #c301c3, #ad00c9, #9200d0, #700ad6, #3c18dc);
+  border-bottom-right-radius: 100%;
+}
