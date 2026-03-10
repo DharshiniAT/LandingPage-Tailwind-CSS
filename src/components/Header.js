@@ -11,7 +11,7 @@ import pig from '../assests/Pigmentation_.avif'
 import sun from '../assests/Sun-Protection.avif'
 import dry from '../assests/Dryness.avif'
 import un from '../assests/Uneven-Skin-Tone.avif'
-import age from '../assests/agin'
+import age from '../assests/Oil-_-Acne-Control.avif'
 import ace from '../assests/Oil-_-Acne-Control.avif'
 import body from '../assests/body.webp'
 import p1 from '../assests/p1.webp'
@@ -23,8 +23,7 @@ import i2 from '../assests/ig2_400x.webp'
 import i3 from '../assests/ig3_400x.webp'
 import i4 from '../assests/ig4_400x.webp'
 import i5 from '../assests/ig5_400x.webp'
-import uni from '../assests/unilever.webp'
-import des from '../assests/des.webp'
+
 function Head(){
     return(
         <div>
