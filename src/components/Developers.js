@@ -1,8 +1,5 @@
 function Developers() {
-  let a = {
-    name: "gyuyu",
-    age: 78,
-  };
+
   return (
     <div className="bg-black text-white min-h-screen px-6 py-20">
       <div className="max-w-5xl mx-auto text-center mb-16">

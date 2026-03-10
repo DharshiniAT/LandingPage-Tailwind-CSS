@@ -1,7 +1,7 @@
 function Body (){
     return(
         <div>
-<h2>lorem34
+<h2>
     
 </h2>
         </div>
